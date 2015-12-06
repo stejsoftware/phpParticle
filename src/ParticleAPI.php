@@ -1,11 +1,12 @@
-<?php namespace articfox1986\phpparticle;
+<?php namespace stej\Particle;
  
 /*
  * @project phpParticle
  * @file    ParticleAPI.php
- * @authors Harrison Jones (harrison@hhj.me)
- *          Devin Pearson   (devin@blackhat.co.za)
- * @date    March 12, 2015
+ * @authors Jonathan Meyer (jon@stej.coml)
+            Harrison Jones (harrison@hhj.me)
+ *          Devin Pearson  (devin@blackhat.co.za)
+ * @date    6 Dec 2015
  * @brief   PHP Class for interacting with the Particle Cloud (particle.io)
  */
 class ParticleAPI {

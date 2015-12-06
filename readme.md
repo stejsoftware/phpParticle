@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/articfox1986/phpParticle.svg?branch=master)](https://travis-ci.org/articfox1986/phpParticle)
-
 phpParticle
 ========
 
@@ -10,8 +8,6 @@ PHP Class for interacting with the Particle Cloud (particle.io)
 - GIT clone or download a zip of the repo and unzip into your project director
 - Rename `phpSpark.config.sample.php` to `phpSpark.config.php`
 - Set your access token and device id in `phpSpark.config.php`
-- (Optional) Copy and paste the code in `spark.firmware.cpp` into a new app in the Particle WebIDE & flash it to your core
-- (Optional) Run the any of the examples in the `examples` folder
 
 ## Usage
 
@@ -48,3 +44,4 @@ PHP Class for interacting with the Particle Cloud (particle.io)
 ## Not Yet Implemented Features
 - OAuth Client Creation (/v1/clients)
 - Advanced OAuth topics 
+
