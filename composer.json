@@ -1,9 +1,13 @@
 {
-    "name": "articfox1986/phpparticle",
-    "description": "A php package for working with the particle API",
+    "name": "stej/phpParticle",
+    "description": "A php package for working with the Particle API",
     "license": "MIT",
     "keywords": ["particle","php"],
     "authors": [
+    	{
+    	    "name": "Jonathan Meyer",
+    	    "email": "jon@stej.com"
+    	},
         {
             "name": "Devin Pearson",
             "email": "devin@blackhat.co.za"
