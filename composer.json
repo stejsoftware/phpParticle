@@ -1,5 +1,5 @@
 {
-    "name": "stej/phpParticle",
+    "name": "stej/php-particle",
     "description": "A php package for working with the Particle API",
     "license": "MIT",
     "keywords": ["particle","php"],
